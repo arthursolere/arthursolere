@@ -1,16 +1,15 @@
 # Arthur Solère
 
-AI Engineer specializing in Computer Vision, Vision-Language Models and Explainable AI.
+AI Research Engineer specializing in Deep Learning, NLP, Computer Vision, and model optimization.
 
 Currently completing my engineering degree at ESILV and working as a Data Science & MLOps intern at Airbus Helicopters.
 
 ## Research Interests
 
-- Computer Vision
-- Vision Transformers
+- Multimodal Deep Learning
+- Natural Language Processing & Information Retrieval
 - Vision-Language Models (VLMs)
-- Explainable AI (XAI)
-- Trustworthy AI
+- Efficient Deep Learning (PEFT, Quantization)
 - Bio-inspired architectures
 
 ## Current Projects
@@ -26,6 +25,15 @@ Topics:
 - Log-Chebyshev P-RoPE
 - Semantic Active Policy
 
+### Agentic AI Voice Assistant
+
+Speech-to-Text -> LLM -> Text-to-Speech pipeline integrating an Agentic RAG and tool-calling for workflow automation.
+
+Topics:
+- Retrieval-Augmented Generation (RAG)
+- Tool-calling & API Integration
+- Sequence-to-Sequence Pipelines
+
 ## Technical Skills
 
 - Python
@@ -35,6 +43,7 @@ Topics:
 - Deep Learning
 - Docker
 - Linux
+- Git
 
 ## Contact
 
