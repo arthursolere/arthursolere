@@ -1,51 +1,29 @@
 # Arthur Solère
 
-AI Research Engineer specializing in Deep Learning, NLP, Computer Vision, and model optimization.
+Machine learning engineer (ESILV, Data & AI, 2026) aiming for a PhD on **world models and next-state prediction**: models that learn a latent representation of a scene and predict how it will evolve.
 
-Currently completing my engineering degree at ESILV and working as a Data Science & MLOps intern at Airbus Helicopters.
+## Research interests
 
-## Research Interests
+- World models and next-state prediction
+- Vision Transformers, vision-language and vision-language-action models
+- Bio-inspired architectures: Global Workspace Theory, foveated vision
+- Efficient deep learning (PEFT, quantization)
 
-- Multimodal Deep Learning
-- Natural Language Processing & Information Retrieval
-- Vision-Language Models (VLMs)
-- Efficient Deep Learning (PEFT, Quantization)
-- Bio-inspired architectures
+## Projects
 
-## Current Projects
+**[Square-FOVI](https://github.com/arthursolere/Square-FOVI)**: exploratory design of a hardware-efficient variant of [FOVI](https://github.com/nblauch/fovi), a bio-inspired foveated interface for Vision Transformers (concentric square sampling, Chebyshev kNN patching, Log-Chebyshev P-RoPE). Extended benchmarking and a first prototype of the square sampling; work in progress.
 
-### Square-FOVI
+**[Impostral](https://github.com/MistralGagnant/impostral)**: Mistral Vibe Hackathon 2026, 3rd place overall and 1st in Track 1. A one-day team project: a Turing-test social deduction game where human players and AI agents answer questions and players vote out the AIs.
 
-Independent research project exploring bio-inspired foveated vision architectures for efficient visual perception and Vision Transformers.
+## Experience
 
-Topics:
-- Concentric Square Sampling
-- Pyramid Pooling Receptive Fields
-- Chebyshev kNN Patching
-- Log-Chebyshev P-RoPE
-- Semantic Active Policy
+- **Airbus Helicopters** (2026): NLP models (classification, retrieval, clustering, translation) for an internal application with ~2,000 daily users; several deployed to production.
+- **STMicroelectronics R&D** (2025): Variational Recurrent Autoencoder in PyTorch for test-scenario generation; LLM fine-tuning under CPU-only constraints.
 
-### Agentic AI Voice Assistant
+## Skills
 
-Speech-to-Text -> LLM -> Text-to-Speech pipeline integrating an Agentic RAG and tool-calling for workflow automation.
-
-Topics:
-- Retrieval-Augmented Generation (RAG)
-- Tool-calling & API Integration
-- Sequence-to-Sequence Pipelines
-
-## Technical Skills
-
-- Python
-- PyTorch
-- Transformers
-- Machine Learning
-- Deep Learning
-- Docker
-- Linux
-- Git
+Python, PyTorch, Transformers, Hugging Face, scikit-learn, Docker, Linux, Git
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/arthur-solere
-- Email: arthur.solere2@gmail.com
+[LinkedIn](https://www.linkedin.com/in/arthur-solere) · arthur.solere2@gmail.com
